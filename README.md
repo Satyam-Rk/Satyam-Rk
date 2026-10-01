@@ -1,28 +1,18 @@
 <div align="center">
 
-  # Hi there, I'm Satyam R Khorjuvekar 👋
-  
-  ### Passionate Software Developer
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://in.linkedin.com/in/satyam-r-khorjuvekar-b50b1921a)
-  [![Email](https://img.shields.io/badge/Email-Contact-orange?style=for-the-badge&logo=gmail&logoColor=white)](mailto:satyamrk2014@gmail.com)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=Satyam-Rk&color=brightgreen&style=flat-square&label=Profile+Views)
-</div>
+  # Hi, I'm Satyam 👋
 
----
+**.NET Developer** from Goa, India, with 3+ years of experience building production B2B systems in C#, ASP.NET Core, SQL Server and .NET MAUI.
 
-## 🛠️ Tech Stack & Tools
+- 💼 Software Developer at EnigmaSoft Technologies, working on [MedzExchange](https://medzexchange.com), a B2B pharmaceutical supply-chain platform with 400+ suppliers and 50,000+ products
+- 📱 Shipped a .NET MAUI app (App Store & Google Play) backed by a Clean Architecture ASP.NET Core API
+- 🤖 Build AI-driven automation with n8n and integrations with HubSpot and webhooks
+- 🌱 Currently learning: Docker, CI/CD with GitHub Actions, automated testing (xUnit), Azure
+- 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/satyam-r-khorjuvekar/) · satyamrk2014@gmail.com
 
-<div align="center">
-  
-  ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-  ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![ASP.NET](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-  ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white)
+### Tech
+C# · .NET · ASP.NET Core · EF Core · Dapper · SQL Server · .NET MAUI · REST APIs · Azure DevOps · n8n · Git
+
+> Most of my professional work is in private company repositories. The public projects below are built from scratch to demonstrate architecture and practices.
   
 </div>
